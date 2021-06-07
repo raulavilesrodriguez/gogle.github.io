@@ -424,8 +424,9 @@ footer.container-footer .footer-about div.container-settings .boton-settings:hov
 }
 
 .advanced-L3eUgb {
-  min-height: 100%;
-  margin: 0 auto -60px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 .advanced-L3eUgb .advanced-titulo {
   color: #d93025;

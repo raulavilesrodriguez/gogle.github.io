@@ -440,8 +440,9 @@ footer.container-footer {
 
 
 .advanced-L3eUgb {
-    min-height: 100%;
-    margin: 0 auto -60px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
     .advanced-titulo {
         color: #d93025;
         font-size: 20px;
