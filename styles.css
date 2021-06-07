@@ -437,10 +437,9 @@ footer.container-footer .footer-about div.container-settings .boton-settings:hov
   border-bottom: 1px solid #ebebeb;
 }
 .advanced-L3eUgb .advanced-contenedor {
-  max-width: 1140px;
-  min-width: 200px;
-  width: 96%;
-  margin: 40px 2% 0 45px;
+  padding: 20px;
+  flex-shrink: 0;
+  box-sizing: border-box;
 }
 .advanced-L3eUgb .advanced-contenedor div.advanced-otByu1 .advanced-I1Kbt {
   float: left;
